@@ -24,11 +24,6 @@ public class ej32 {
     //Enseño el resultado
     System.out.println("Tu dinero se descompone en: " + billete50 + " billetes de 50, " + billete20 + " billetes de 20, "
     + billete10 + " billetes de 10, " + moneda2 + " monedas de 2 y " + moneda1 + " monedas de 1");
-           
-    
-    
-    
-    
     }
     
 }
